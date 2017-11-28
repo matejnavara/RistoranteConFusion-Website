@@ -44,3 +44,7 @@ body {
     border-bottom: 1px solid #ddd;
     padding: 10px;
 }
+
+.modal-open {
+    padding-right: 0px !important;
+}
